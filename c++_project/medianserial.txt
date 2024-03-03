@@ -1,0 +1,8 @@
+enter the value of n=
+3
+enter the numbers:
+3
+3
+3
+
+ median for serial data=3

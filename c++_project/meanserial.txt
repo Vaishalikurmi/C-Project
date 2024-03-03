@@ -1,0 +1,3 @@
+enter the value of elements= 1frequancy=
+2
+mean for serial data=2
